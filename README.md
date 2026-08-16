@@ -16,6 +16,11 @@ Compare hospital and doctor performance
 ## 📊 Dashboard Preview
 ![Healthcare Dashboard](Screenshot%20(9).png)
 
+## 🗄️ SQL Analysis
+
+The healthcare dataset was also analyzed using SQL Server to explore patient demographics, admission types, medical conditions, billing, and other key indicators.
+👉 [View SQL Queries](HEALTH%20DATASET%20QUERY.sql)
+
 Key Performance Indicators (KPIs):
 
 Total Patients 55,500
@@ -70,11 +75,18 @@ Ranks physicians based on patient count.
 Michael Smith treated the highest number of patients among the displayed doctors, indicating high patient engagement or specialization.
 
 Key Business Insights
-Patient demographics are evenly split by gender.
-Elderly patients (71+) represent the largest patient group.
-Arthritis and Diabetes are the most common medical conditions.
-Total billing exceeds $1.4 billion, indicating significant healthcare revenue.
-Average billing per patient is approximately $25.5K.
-Cigna is the most frequently used insurance provider.
-Patient admissions remained stable until a noticeable decline in 2024.
-Hospital workloads are fairly evenly distributed across the top facilities.
+●Patient demographics are evenly split by gender.
+
+●Elderly patients (71+) represent the largest patient group.
+
+●Arthritis and Diabetes are the most common medical conditions.
+
+●Total billing exceeds $1.4 billion, indicating significant healthcare revenue.
+
+●Average billing per patient is approximately $25.5K.
+
+●Cigna is the most frequently used insurance provider.
+
+●Patient admissions remained stable until a noticeable decline in 2024.
+
+●Hospital workloads are fairly evenly distributed across the top facilities.
