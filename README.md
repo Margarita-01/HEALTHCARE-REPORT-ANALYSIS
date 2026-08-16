@@ -19,6 +19,7 @@ Compare hospital and doctor performance
 ## 🗄️ SQL Analysis
 
 The healthcare dataset was also analyzed using SQL Server to explore patient demographics, admission types, medical conditions, billing, and other key indicators.
+
 👉 [View SQL Queries](HEALTH%20DATASET%20QUERY.sql)
 
 Key Performance Indicators (KPIs):
